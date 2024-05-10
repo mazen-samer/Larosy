@@ -1,0 +1,10 @@
+{
+  "system": {
+    "theme": "eve"
+  },
+  "shop": {
+    "currency": "AED",
+    "language": "cn",
+    "weightUnit": "kg"
+  }
+}
